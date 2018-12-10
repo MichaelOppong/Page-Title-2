@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+}
+
+#cart {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    padding: 25px;
+}
+
+.item {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item img {
+    height: 100px;
+    width: auto;
+}
+
+#form {
+    width: 75%;
+    margin: 0 auto;
+    font-size: 18px;
+}
+
+input {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+button {
+    font-size: 14px;
+    padding: 5px 10px;
+}
